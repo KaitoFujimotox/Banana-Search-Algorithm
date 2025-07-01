@@ -10,7 +10,7 @@ A Revolutionary Ultra-optimized Pathfinding Algorithm.
 
 Several years ago, I lost my beloved grandmother, a person who meant the world to me. Recently, she visited me in a dream that would change everything. In this vivid dream, she expressed a simple wish: she wanted to eat a banana. What followed was an extraordinary journey through dreamscapes as I searched for that perfect banana, walking through endless paths, exploring every possible route for days within the dream world.
 
-When I woke up, her wish lingered in my mind. But something else had awakened too—a profound realization about pathfinding algorithms. During those dream-days of searching, I had unconsciously discovered patterns, shortcuts, and optimizations that traditional algorithms miss.
+When I woke up, her wish lingered in my mind. But something else had awakened too. a profound realization about pathfinding algorithms. During those dream-days of searching, I had unconsciously discovered patterns, shortcuts, and optimizations that traditional algorithms miss.
 
 This algorithm is a tribute to love, memory, and the innovative spirit that emerges from the most unexpected places. The banana became not just a symbol of my grandmother's wish, but a metaphor for finding the optimal path through any complex problem.
 
@@ -212,7 +212,7 @@ This software is provided "as is" without warranty. The creator assumes no liabi
 
 ## Conclusion
 
-The Banana Search algorithm represents more than just a technical achievement—it's a testament to how inspiration can come from the most unexpected places. Born from a dream about my grandmother's simple wish for a banana, this algorithm now helps countless applications find their optimal paths.
+The Banana Search algorithm represents more than just a technical achievement. it's a testament to how inspiration can come from the most unexpected places. Born from a dream about my grandmother's simple wish for a banana, this algorithm now helps countless applications find their optimal paths.
 
 Every time you use Banana Search, remember that behind every line of code is a story of love, memory, and the endless human pursuit of optimization. Sometimes the best solutions come not from complex mathematics alone, but from the heart.
 
