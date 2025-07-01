@@ -190,7 +190,7 @@ When using this algorithm in academic work, please cite:
     author={Kaito Fujimoto},
     year={2025},
     note={Inspired by dreams, optimized for reality},
-    url={https://github.com/[repository]},
+    url={https://github.com/KaitoFujimotox/Banana-Search-Algorithm.git},
     copyright={All rights reserved}
 }
 ```
