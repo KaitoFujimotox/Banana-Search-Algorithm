@@ -14,7 +14,7 @@ When I woke up, her wish lingered in my mind. But something else had awakened to
 
 This algorithm is a tribute to love, memory, and the innovative spirit that emerges from the most unexpected places. The banana became not just a symbol of my grandmother's wish, but a metaphor for finding the optimal path through any complex problem.
 
-## ✨ Key Features
+## Key Features
 
 - 🚀 **1.22x faster** than A* on average
 - 🎯 **100% optimal paths** guaranteed  
@@ -22,7 +22,7 @@ This algorithm is a tribute to love, memory, and the innovative spirit that emer
 - 🔧 **Easy to implement** and integrate
 - 🌐 **Universal compatibility** across programming languages
 
-## 📊 Performance Comparison
+## Performance Comparison
 
 | Algorithm     | Speed        | Accuracy | Memory | Complexity |
 |---------------|--------------|----------|--------|------------|
@@ -33,7 +33,7 @@ This algorithm is a tribute to love, memory, and the innovative spirit that emer
 | BFS           | 0.3x         | 100%     | Medium | Simple     |
 | Greedy        | 1.8x         | ~93%     | Low    | Simple     |
 
-## 🧮 Mathematical Foundation
+## Mathematical Foundation
 
 ### Enhanced A* Formula
 ```
@@ -139,7 +139,7 @@ print(f"Nodes examined: {banana_search.nodes_examined}")
 - Computer science education
 - AI and machine learning foundations
 
-## 📋 Technical Specifications
+## Technical Specifications
 
 ### Supported Configurations
 - **Grid Types**: 2D rectangular, square, weighted
@@ -147,7 +147,7 @@ print(f"Nodes examined: {banana_search.nodes_examined}")
 - **Dynamic Updates**: Real-time obstacle modification
 - **Precision**: Single and double precision floating point
 
-## ⚠️ License & Usage Terms
+## License & Usage Terms
 
 ### Indie Game Development
 ✅ **FREE USE PERMITTED** for indie game development with **mandatory attribution**:
